@@ -6,4 +6,4 @@ some basic introduction **here**
 - Second item
 - Third item
 
-- This is a [Link](www.google.com)
+- This is a [Link](https://google.com)
